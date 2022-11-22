@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcxone&layout=compact&theme=tokyonight)
 
-[![Website](https://img.shields.io/badge/website-tcxone-green)](https://tcxone.github.io)
+[![Mail](https://img.shields.io/badge/-admin@tcxonemail.ml-54BDF2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@tcxonemail.ml)
