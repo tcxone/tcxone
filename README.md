@@ -1,7 +1,11 @@
-![Visitor Count](https://profile-counter.glitch.me/tcxone/count.svg)
+# Code Robertson
 
-![tcxone GitHub stats](https://github-readme-stats.vercel.app/api?username=tcxone&show_icons=true&theme=tokyonight)
+## About me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcxone&layout=compact&theme=tokyonight)
+> Hello. Nice to meet you. You can call me Code Robertson. I'm a common student, and I like java and cats. My goal now is to use programs to complete various chemical or mathematical calculations. Finally, I enjoy making friends. I am looking forward and welcome you to direct message me via the contact information below.
 
-[![Mail](https://img.shields.io/badge/-admin@tcxonemail.ml-54BDF2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:admin@tcxonemail.ml)
+## Contact me
+
+* [GitHub](https://github.com/tcxone)
+* [Twitter](https://twitter.com/TcxoneCode)
+* [Email](mailto:admin@tcxonemail.ml)
