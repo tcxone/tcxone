@@ -2,7 +2,9 @@
 
 ## About me
 
-> Hello. Nice to meet you. You can call me Code Robertson. I'm a common student, and I like java and cats. My goal now is to use programs to complete various chemical or mathematical calculations. Finally, I enjoy making friends. I am looking forward and welcome you to direct message me via the contact information below.
+![tcxone GitHub stats](https://github-readme-stats.tcxone.eu.org/api?username=tcxone&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.tcxone.eu.org/api/top-langs/?username=tcxone&layout=compact&theme=tokyonight)
 
 ## Contact me
 
