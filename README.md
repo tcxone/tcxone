@@ -9,5 +9,6 @@
 ## Contact me
 
 * [GitHub](https://github.com/tcxone)
+* [Element](https://matrix.to/#/@tcxone:matrix.org)
 * [Twitter](https://twitter.com/TcxoneCode)
 * [Email](mailto:me@tcxone.eu.org)
