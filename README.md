@@ -2,7 +2,7 @@
 
 <details>
 	<summary></summary><i>
-	I am facing a huge life test. I will come back in June 2023, and I may not be online before then.
+	I am facing a huge test. I will come back in June 2026, and I may not be online before then.
 	<div align="right">July 29, 2023</div></i>
 </details>
   
